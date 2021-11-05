@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspace/docs/build",
+  "command": "/bin/clang++-13 -g -o CMakeFiles/docs.dir/docs.cpp.o -c /workspace/docs/docs.cpp",
+  "file": "/workspace/docs/docs.cpp"
+}
+]
