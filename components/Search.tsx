@@ -108,7 +108,7 @@ export function Search({
     // deactivate any active hit when typing in search box
     setActiveHit(0)
 
-    return await fetchSearchResults(xquery)
+    return fetchSearchResults(xquery)
   }
 
   // If there's a query, call the endpoint

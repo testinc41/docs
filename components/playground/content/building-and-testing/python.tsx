@@ -202,7 +202,7 @@ const article: PlaygroundArticleT = {
       },
       title: 'Publishing to package registries',
       content: dedent`
-        You can configure your workflow to publish your Python package to a package registry once your CI tests pass. This example demonstrates how you can use GitHub Actions to upload your package to PyPI each time you [publish a release](/github/administering-a-repository/managing-releases-in-a-repository). 
+        You can configure your workflow to publish your Python package to a package registry once your CI tests pass. This example demonstrates how you can use GitHub Actions to upload your package to PyPI each time you [publish a release](/github/administering-a-repository/managing-releases-in-a-repository).
 
         For this example, you will need to create two [PyPI API tokens](https://pypi.org/help/#apitoken). You can use secrets to store the access tokens or credentials needed to publish your package. For more information, see "[Creating and using encrypted secrets](/github/automating-your-workflow-with-github-actions/creating-and-using-encrypted-secrets)."
 
