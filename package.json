@@ -164,7 +164,7 @@
     "object-hash": "^2.2.0",
     "postcss": "^8.3.6",
     "prettier": "^2.3.2",
-    "replace": "^1.2.1",
+    "replace": "^1.2.2",
     "rimraf": "^3.0.2",
     "robots-parser": "^2.3.0",
     "sass": "^1.38.0",
